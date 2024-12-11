@@ -1,0 +1,5 @@
+<svg width="200" height="100" viewBox="0 0 200 100" xmlns="http://www.w3.org/2000/svg">
+  <path d="M40 20 C40 10, 60 10, 60 20 S80 30, 80 20" fill="none" stroke="red" stroke-width="4"/>
+  <path d="M90 20 C90 10, 110 10, 110 20 S130 30, 130 20" fill="none" stroke="red" stroke-width="4"/>
+  <text x="40" y="70" font-family="Arial" font-size="24" fill="black">Global</text>
+</svg>
